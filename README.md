@@ -1,5 +1,1 @@
-# Hi there 👋
-
-<a href="https://github.com/Penguin5681/Penguin5681">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Penguin5681&repo=Penguin5681&theme=buefy" />
-</a>
+<a href="https://github.com/Penguin5681/Penguin5681"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Penguin5681&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pranav's github stats" /></a> | <a href="https://github.com/Penguin5681/Penguin5681"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penguin5681&layout=compact&theme=buefy&hide_border=true" /></a>
