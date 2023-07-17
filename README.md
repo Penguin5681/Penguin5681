@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey There!<br>📍UnderGrad Student (Computer Science) @ Parul University<br>🎮 I Love playing Video Games<br>⌨️ I do LeetCode (https://leetcode.com/Penguin5681)
+👋 Hey There!<br>📍UnderGrad Student (Computer Science) @ Parul University<br>🎮 I Love playing Video Games<br>⌨️ 
 
 ## Contact Me: pranavsinha922@gmail.com
 
