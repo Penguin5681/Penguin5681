@@ -37,6 +37,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Penguin5681/Penguin5681/output/snake.svg" alt="Snake animation" />
 
 ###
