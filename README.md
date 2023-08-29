@@ -1,5 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=Penguin5681&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)  &nbsp;  &nbsp;  &nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Penguin5681&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 [![Penguin5681's GitHub | Languages Over Time](https://stats.quine.sh/Penguin5681/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Penguin5681)
 
 ## What I use?
