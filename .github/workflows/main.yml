@@ -1,0 +1,13 @@
+- name: WakaTime Stat Update Action
+  # You may pin to the exact commit or the version.
+  # uses: avinal/Profile-Readme-WakaTime@c8465a8a2f2e6306191281c7f28cdb1387e2c6a3
+  uses: avinal/Profile-Readme-WakaTime@v3.0
+  with:
+    # Your WakaTime API Key
+    WAKATIME_API_KEY: waka_6674ebf6-ac22-47bc-8646-a6e069ac5290
+    # GitHub access token
+    GITHUB_TOKEN: # default is ${{ github.token }}
+    # Which branch is used for saving images
+    BRANCH: # optional, default is master
+    # Manual commit messages
+    COMMIT_MSG: # optional, default is Automated Coding Activity Update :alien:
