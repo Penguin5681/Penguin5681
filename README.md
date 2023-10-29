@@ -2,5 +2,5 @@
  I do LeetCode sometimes: [Profile](https://leetcode.com/Penguin5681/) <br>
 <img
   src="https://github.com/Penguin5681/Penguin5681/blob/main/images/stat.svg"
-  alt="My Recent Coding Activity"
+  alt="Recent Coding Activity"
 />
